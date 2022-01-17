@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shivankkunwar/gradient-background-generator/issues"
   },
-  "homepage": "https://github.com/shivankkunwar/gradient-background-generator#readme"
+  "homepage": "https://github.com/shivankkunwar/gradient-background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
